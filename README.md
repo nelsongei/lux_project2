@@ -1,4 +1,4 @@
-# Project 2
+# Week 1 Project 2: A Simple Churn Project
 Predicting customers Churn is a critical task for telecom companies like Sprint, as it helps them proactively retain customers and reduce revenue loss. To create a machine learning model to predict customer churn, you can follow these steps:
 
 1) Data Collection and Preparation: By gathering historical data on customers churn including customer profiles, usage patterns, billing information, and past churn events. Clean and preproces the collected data by handling the missing values the split the data into validation , training and test sets
